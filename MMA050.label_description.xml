@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<labelset>
+<label id="0" tag="bkg" color="0x0" fullname=""/>
+<label id="24" tag="cbf" color="0xffff00" fullname="Cerebellar Related Fiber Tracts"/>
+<label id="32" tag="VL" color="0x0" fullname="Lateral Ventricle"/>
+<label id="36" tag="V3" color="0x0" fullname="Third Ventricle"/>
+<label id="38" tag="AQ" color="0x0" fullname="Cerebral Aqueduct"/>
+<label id="40" tag="4V" color="0x0" fullname="Fourth Ventricle"/>
+<label id="54" tag="CTX" color="0xff00" fullname="Cerebral Cortex"/>
+<label id="56" tag="GP" color="0xcc99" fullname="Globus Pallidus"/>
+<label id="58" tag="CBX" color="0xff0000" fullname="Cerebellar Cortex"/>
+<label id="60" tag="CBN" color="0xeb0000" fullname="Cerebellar Nuclei"/>
+<label id="64" tag="MB" color="0xffff" fullname="Midbrain"/>
+<label id="68" tag="SP" color="0x330000" fullname="Spinal Cord"/>
+<label id="128" tag="HY" color="0xd7" fullname="Hypothalamus"/>
+<label id="130" tag="TH" color="0xff" fullname="Thalamus"/>
+<label id="170" tag="IIn" color="0xffff00" fullname="Optic Nerve"/>
+<label id="172" tag="cc" color="0xffff00" fullname="Corpus Callosum"/>
+<label id="180" tag="aco" color="0xffff00" fullname="Anterior Commissure, Olfactory Limb"/>
+<label id="182" tag="lot" color="0xffff00" fullname="Lateral Olfactory Tract"/>
+<label id="184" tag="fim" color="0xffff00" fullname="Fimbria"/>
+<label id="186" tag="int" color="0xffff00" fullname="Internal Capsule"/>
+<label id="188" tag="act" color="0xffff00" fullname="Anterior Commissure, Temporal Limb"/>
+<label id="190" tag="fxs" color="0xffff00" fullname="Fornix System"/>
+<label id="192" tag="fr" color="0xffff00" fullname="Fasciculus Retroflexus"/>
+<label id="194" tag="sm" color="0xffff00" fullname="Stria Medullaris"/>
+<label id="196" tag="HIP" color="0x6600" fullname="Hippocampus"/>
+<label id="198" tag="OLF" color="0x669900" fullname="Olfactory System"/>
+<label id="202" tag="STR" color="0xd7d7" fullname="Striatum"/>
+<label id="206" tag="P" color="0xd700d7" fullname="Pons"/>
+<label id="208" tag="MY" color="0xc800c8" fullname="Medulla"/>
+<label id="214" tag="IPN" color="0xe1e1" fullname="Interpeduncular Nucleus"/>
+<label id="216" tag="SN" color="0xc8c8" fullname="Substantia Nigra"/>
+<label id="220" tag="IC" color="0xb5b4" fullname="Inferior Colliculus"/>
+<label id="222" tag="SC" color="0xa1a1" fullname="Superior Colliculus"/>
+<label id="224" tag="st" color="0xffff00" fullname="Stria Terminalis"/>
+<label id="2008" tag="MO" color="0x99cc00" fullname="Motor Cortex"/>
+<label id="2010" tag="PERI" color="0x99ff33" fullname="Perirhinal Cortex"/>
+<label id="2020" tag="PAG" color="0x80ff00" fullname="Periaqueductal Gray"/>
+<label id="2100" tag="FL" color="0x800080" fullname="R. Frontal Lobe (wm)"/>
+<label id="2012" tag="ENT" color="0x66ff66" fullname="Entorhinal Cortex"/>
+<label id="2016" tag="AMY" color="0x99ff99" fullname="Amygdala"/>
+<label id="10001" tag="SEN" color="0x5c00b9" fullname="Sensory Cortex"/>
+<label id="10002" tag="FRO" color="0x5c00b9" fullname="Frontal Cortex"/>
+<label id="10003" tag="dHIP" color="0x7af4" fullname="Dorsal Hippocampus"/>
+<label id="10004" tag="vHIP" color="0x7af4" fullname="Ventral Hip[pocampus"/>
+</labelset>
